@@ -5,8 +5,8 @@ pygame.init()
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-PLAYER_COLOUR = (225, 255, 80,)
-WALL_COLOUR = (70, 50, 255)
+PLAYER_COLOUR = (225, 255, 255,)
+WALL_COLOUR = (255, 50, 255)
 PLAYER_SPEED = 7
 
 clock = pygame.time.Clock()
